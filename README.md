@@ -1,6 +1,4 @@
-# 6_WeatherPy_with_Python_APIs
-# Mod6_World_Weather_Analysis
-Module 6 Working with API's
+# Module 6_WeatherPy_with_Python_APIs_World_Weather_Analysis
 
 ## Goal
 Analyze 500 or more of the world’s unique cities and their weather data in real time to determine if the temperature increases as the equator is approached using the Open Weather Map API.
